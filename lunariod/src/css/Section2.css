@@ -1,0 +1,36 @@
+.section2Top{
+  background-color: black;
+}
+
+.section2Main{
+  display: flex;
+
+  gap: 20rem;
+  padding: 5rem;
+  /* text-align: left; */
+
+ 
+  
+}
+
+.allPSection2{
+  width: 80%;
+  font-family: Montserrat,ui-serif,Georgia,Cambria,Times New Roman,Times,serif;
+}
+
+.readMore{
+  text-align: center;
+  color: rgb(47, 149, 245);
+  font-size: 0.8rem;
+}
+
+.readMore:hover{
+  cursor: pointer;
+}
+
+.divTextSection2{
+ width: 30%;
+}
+
+
+

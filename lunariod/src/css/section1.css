@@ -1,0 +1,19 @@
+.mainSection1{
+  background-color: black;
+}
+
+.imgAndText{
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.textH1{
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+.textH2{
+  font-size: 4rem;
+  font-weight: bold;
+}
