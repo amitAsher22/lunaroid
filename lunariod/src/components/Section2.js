@@ -9,7 +9,7 @@ import { BsArrowDownShort } from 'react-icons/bs';
 function Section2 (){
   const [show , setShow] = useState(false)
   return(
-    <div className="section2Top">
+    <div className="section2Top" id="section2">
       <div className="section2Main">
         <div className="divTextSection2">
           <h1 className="titleSection2">The Legend</h1>

@@ -1,0 +1,10 @@
+.allImages{
+    max-width: 100%;
+    max-height: 100%;
+    display: flex;
+ 
+}
+
+.img{
+  max-width: 20%;
+}

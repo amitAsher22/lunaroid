@@ -8,7 +8,7 @@ import '../css/section1.css'
 
 function Section1 (){
   return(
-    <div className="mainSection1">
+    <div className="mainSection1" >
      <div className="imgAndText">
        <img src={homeImg} alt="home img"/>
        <div>
