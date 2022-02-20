@@ -9,7 +9,7 @@ import '../css/roadMap.css'
 function RoadMap() {
   return (
     <div>
-      <div>
+      <div id="section3">
         
         <div className="roadMapMainSection">
           <img src={rose} alt="rose road map" />

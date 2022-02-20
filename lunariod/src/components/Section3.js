@@ -9,7 +9,7 @@ import img7 from '../images/img7.png'
 
 function Section3(){
   return(
-    <div id="section3">
+    <div >
     <div className="section3Div" >
     <img className="img7" src={img7} alt="img7"/>
     <div>

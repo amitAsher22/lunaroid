@@ -7,7 +7,7 @@ import '../css/artist.css'
 
 function Artist(){
   return(
-    <div>
+    <div id="section4">
       <div className="artistMain">
         <img src={artistImg} alt="artist" className="artistImage"/>
         <h1 className="titleArtist">Itay Asher</h1>

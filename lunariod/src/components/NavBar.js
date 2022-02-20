@@ -36,9 +36,9 @@ return(
       <li><Link smooth to="#section2">lora</Link></li>
       <li><Link smooth to="#Carousel">Gallery</Link></li>
       <li><Link smooth to="#section3">RoadMap</Link></li>
-      <li><Link smooth to="#section1">Artist</Link></li>
-      <li><Link smooth to="#section1">Team</Link></li>
-      <li><Link smooth to="#section1">FAQ</Link></li>
+      <li><Link smooth to="#section4">Artist</Link></li>
+      <li><Link smooth to="#section5">Team</Link></li>
+      <li><Link smooth to="#section6">FAQ</Link></li>
       <li><FiTwitter/></li>
       <li><SiMedium/></li>
       <li><FaInstagram/></li>

@@ -12,7 +12,7 @@ import '../css/Team.css'
 
 function Team() {
   return (
-    <div className="sectionMainTeam">
+    <div className="sectionMainTeam" id="section5">
       <div >
         <h1 className="titleTeam"> Team</h1>
         <div className="Teamsimg">
