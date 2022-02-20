@@ -1,14 +1,23 @@
+
+.section3{
+  text-align: center;
+}
+
 .section3Div{
-  
   display: flex;
   flex-direction: column;
   text-align: center;
   align-items: center;
+  text-align: center;
   padding: 20px;
   background-color: black;
-
 }
 
 .img7{
-  max-width: 90%;
+  max-width: 30vw;
+}
+
+.textSection3{
+  width: 80%;
+ margin: auto;
 }

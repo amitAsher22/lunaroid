@@ -1,0 +1,21 @@
+.artistMain{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 5rem;
+}
+
+.artistImage{
+  height: 50vh;
+  width: 30vw;
+  
+}
+
+.titleArtist{
+  font-size: 4rem;
+}
+
+.textArtist{
+  text-align: center;
+  width: 80%;
+}

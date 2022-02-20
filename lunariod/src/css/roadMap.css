@@ -1,0 +1,21 @@
+.titleRoedMap{
+  font-size: 50px;
+  text-align: left;
+}
+
+
+.roadMapMainSection{
+  display: flex;
+  flex-direction: row;
+  margin-top: 2rem;
+  font-size: 20px;
+  padding: 4vw;
+ 
+}
+
+.textRoadMap{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10vw;
+}
