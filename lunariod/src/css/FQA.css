@@ -1,15 +1,14 @@
-.titleH2{
-  border-bottom: 1px solid rgb(246, 246, 246);
-}
-hr{
-  margin-bottom: 20px;
+.Accordion{
+  background-color: black;
 }
 
-.accordion{
-  width: 80%;
-  margin: auto;
+.titleFQA{
+  text-align: center;
+  font-size: 4rem;
 }
 
-.pointerShow:hover{
-  cursor: pointer;
+.answers{
+  display: flex;
+  flex-wrap: wrap;
+ 
 }

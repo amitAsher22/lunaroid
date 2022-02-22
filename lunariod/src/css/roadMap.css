@@ -7,9 +7,10 @@
 .roadMapMainSection{
   display: flex;
   flex-direction: row;
-  margin-top: 2rem;
+  /* margin-top: 2rem; */
   font-size: 20px;
   padding: 4vw;
+  background-color: black;
  
 }
 
@@ -19,3 +20,4 @@
   gap: 20px;
   padding: 10vw;
 }
+

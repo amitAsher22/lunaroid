@@ -15,7 +15,7 @@
 }
 
 .navbarMain.active{
-  background: rgba(12, 12, 12, 0.5);
+  background: rgba(63, 63, 63, 0.5);
 backdrop-filter: blur(6px);
 }
 
@@ -23,6 +23,9 @@ backdrop-filter: blur(6px);
   display: flex;
   list-style: none;
   gap: 2rem;
+  /* background: rgba(63, 63, 63, 0.5);
+  backdrop-filter: blur(6px); */
+  
   
 }
 
@@ -38,6 +41,7 @@ li{
   position: relative;
   z-index: 1;
   transition: ease-out 0.3s;
+  
  
   
 }
@@ -46,12 +50,14 @@ color: cornflowerblue;
  cursor: pointer;
  border-bottom: 2px solid cornflowerblue;
  /* font-size: 1.2rem; */
- transform:scale(1.2)
+ transform:scale(1.2);
+
 
 }
 
 a{
   text-decoration: none;
+
 }
 a:hover{
   color: cornflowerblue;;
@@ -59,6 +65,7 @@ a:hover{
 
 svg{
   font-size: 1.5rem ;
+
 }
 svg:hover{
   color: cornflowerblue;;
@@ -90,6 +97,13 @@ svg:hover{
   background-color: rgb(87, 116, 163);
   transition: 0.5s all ease;
 }
+
+
+/* @media query */
+@media screen and (max-width: 900px){
+
+}
+
 
 
 
