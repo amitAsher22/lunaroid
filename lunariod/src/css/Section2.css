@@ -32,5 +32,17 @@
  width: 30%;
 }
 
+@media (orientation: portrait){
+  .section2Main{
+   display: inline-block;
+   text-align: center;
+   margin: auto;
+   width: 100%;
+  }
+  .allPSection2{
+    width: 100%;
+    text-align: left;
+  }
+}
 
 

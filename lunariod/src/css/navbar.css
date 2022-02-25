@@ -23,8 +23,7 @@ backdrop-filter: blur(6px);
   display: flex;
   list-style: none;
   gap: 2rem;
-  /* background: rgba(63, 63, 63, 0.5);
-  backdrop-filter: blur(6px); */
+
   
   
 }
@@ -98,10 +97,30 @@ svg:hover{
   transition: 0.5s all ease;
 }
 
+.hamburger{
+  display: none;
+}
 
+/* (orientation: portrait) */
 /* @media query */
-@media screen and (max-width: 900px){
+@media (orientation: portrait) {
+   .hamburger{
+     display: flex;
+    
+   }
+   .navbarButtons , .logoSize{
+     display: none;
+   }
+   
+   .listNavbar {
+     /* display: none; */
+     display: grid;
+     grid-template-columns: auto auto auto;
+   }
 
+ 
+
+ 
 }
 
 

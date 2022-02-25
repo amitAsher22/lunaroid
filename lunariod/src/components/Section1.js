@@ -10,7 +10,7 @@ function Section1 (){
   return(
     <div className="mainSection1" >
      <div className="imgAndText">
-       <img src={homeImg} alt="home img"/>
+       <img className="imgSection1" src={homeImg} alt="home img"/>
        <div>
        <h1 className="textH1">we are</h1>
        <h2 className="textH2">lunaroig</h2>

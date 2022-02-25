@@ -20,8 +20,6 @@ function CarouselImages() {
         <img className="img" src={img4}  alt="img4"/>
         <img className="img" src={img5}  alt="img5"/>
       </div>
-
-      
     </div>
   )
 }
